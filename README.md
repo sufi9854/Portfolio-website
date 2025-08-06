@@ -1,7 +1,5 @@
 # Sufiyan’s Portfolio
 
-[![Portfolio Live](https://sufiyan18-portfolio.netlify.app)
-
 Welcome to my personal portfolio website! I’m **Sufiyan**, a full stack web developer passionate about designing responsive and accessible web apps.
 
 ---
