@@ -120,8 +120,8 @@ This portfolio meets all freeCodeCamp requirements:
 
 Feel free to reach out:
 
-* GitHub: [https://github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: [https://github.com/YOUR-GITHUB-USERNAME](https://github.com/sufi9854)
+* Email: [your.email@example.com](mailto:your.email@sksufiyan9854@gmail.com)
 
 Thank you for checking out my portfolio!
 
